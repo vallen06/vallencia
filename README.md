@@ -1,8 +1,8 @@
-# Project Title
-JTMK.html Boostrap
+## Project Title
+HTML Bootstrap (JTMK)
 
 ## Overview
-It's was my first experience doing website by myself and it will help me to know how to use bootstrap.
+This is the first experience of making a website and it can increase my knowledge to know more by looking for any references.
 
 ## Features
 - Navbar
