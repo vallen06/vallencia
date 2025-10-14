@@ -24,5 +24,5 @@ It's was my first experience doing website by myself and it will help me to know
 
 ## Contributors
 - Name: Vallencia Veonella anak Velontino
-- Course: Jabatan Teknologi dan Komunikasi
+- Course: Web Design Technology
 - Institution: Politeknik Kuching Sarawak
